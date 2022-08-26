@@ -7,8 +7,8 @@
     <title>Ehsan</title>
     <meta name="description" content="Ehsan Jahangard, FUll STACK DEVELOPER">
     <meta name="apple-mobile-web-app-status-bar" content="#263238">
-    <meta name="theme-color" content="#263238">
-</head>
+    <meta name="theme-color" content="#263238" />
+ </head>
  <body>
 	 <p>
 	 PROFILE
@@ -24,6 +24,6 @@ and speed.
 Possess strong attention to detail, welldeveloped time management skills, and the 
 ability to complete all projects within schedule 
 and in a timely manner
-<p>
+</p>
 </body>
 </html>
