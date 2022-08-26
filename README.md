@@ -21,7 +21,7 @@ Built products for desktop and web app users
 over 6+ years, meeting the highest standards 
 for web design, user experience, best practices, 
 and speed. 
-Possess strong attention to detail, welldeveloped time management skills, and the 
+Possess strong attention to detail, well developed time management skills, and the 
 ability to complete all projects within schedule 
 and in a timely manner
 </p>
