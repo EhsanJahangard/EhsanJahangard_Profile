@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,7 +9,21 @@
     <meta name="apple-mobile-web-app-status-bar" content="#263238">
     <meta name="theme-color" content="#263238">
 </head>
- <body onload="body_load()">
-	 <p>Ehsan</p>
+ <body>
+	 <p>
+	 PROFILE
+Solution-driven Web Developer who is adept at 
+contributing to a highly collaborative work 
+environment. 
+Finding solutions and determining customer 
+satisfaction. 
+Built products for desktop and web app users 
+over 6+ years, meeting the highest standards 
+for web design, user experience, best practices, 
+and speed. 
+Possess strong attention to detail, welldeveloped time management skills, and the 
+ability to complete all projects within schedule 
+and in a timely manner
+<p>
 </body>
 </html>
